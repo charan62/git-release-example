@@ -27,8 +27,8 @@
 		<!-- Publish snapshots here -->
 		<snapshotRepository>
 			<id>nexussnapshots</id>
-			<name>snapshots</name>
-			<url>http://localhost:8081/repository/snapshots/</url>
+			<name>snapshot1</name>
+			<url>http://localhost:8081/repository/snapshot1/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
