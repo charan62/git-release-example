@@ -28,7 +28,7 @@
 		<snapshotRepository>
 			<id>nexussnapshots</id>
 			<name>mvn_deploy</name>
-			<url>http://localhost:8081/repository/mvn_deploy/</url>
+			<url>http://localhost:8081/repository/maven-deploy/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
