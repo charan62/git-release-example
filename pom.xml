@@ -20,15 +20,15 @@
 		<!-- Publish versioned releases here -->
 		<repository>
 			<id>nexusreleases</id>
-			<name>mvn_release</name>
-			<url>http://localhost:8081/repository/mvn_release/</url>
+			<name>release</name>
+			<url>http://localhost:8081/repository/release/</url>
 		</repository>
 
 		<!-- Publish snapshots here -->
 		<snapshotRepository>
 			<id>nexussnapshots</id>
-			<name>mvn_deploy</name>
-			<url>http://localhost:8081/repository/maven-deploy/</url>
+			<name>snapshots</name>
+			<url>http://localhost:8081/repository/snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
